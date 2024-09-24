@@ -194,10 +194,10 @@ button {
   background-color: transparent;
 }
 
-.lots__heading { 
-  margin-left: 47px;
-  margin-bottom: 25px;
-  letter-spacing: 0.2em;
+.lots_heading { 
+margin-left: 47px;
+margin-bottom: 25px;
+letter-spacing: 0.2em;
 }
 
 .lots {
