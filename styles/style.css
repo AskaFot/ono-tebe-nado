@@ -194,15 +194,15 @@ button {
   background-color: transparent;
 }
 
+.lots__heading { 
+  margin: 0px 0px 25px 47px;
+  letter-spacing: 0.2em;
+}
+
 .lots {
   margin: 179px 24px 0 24px;
 }
 
-.lots__heading { 
-  
-  margin: 0px 0px 25px 47px;
-  letter-spacing: 0.2em;
-}
 
 .overlay_card {
   position: relative;
