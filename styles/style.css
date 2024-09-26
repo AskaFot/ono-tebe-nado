@@ -94,10 +94,7 @@ h4 {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+  inset: 0;
 } 
 
 .cover {
@@ -156,7 +153,6 @@ h4 {
 
 .text-title_left {
   display: flex;
-  grid-row-start: 2;
   line-height: 115px;
   text-align: left;
 }
@@ -164,17 +160,13 @@ h4 {
 
 .text_title_center {
   display: flex;
-  grid-row-start: 3;
-  justify-self: center;
   line-height: 100px;
   justify-content: center;
   }
 
 .text-title_right {
-  grid-row-start: 4;
   line-height: 100px;
   display: flex;
-  justify-self: end;
   justify-content: flex-end;
 }
 
@@ -244,7 +236,6 @@ text-transform:uppercase;
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
-
 }
 
 
@@ -302,13 +293,8 @@ text-transform:uppercase;
 
 .about {
   display: grid;
-  /* grid-template-columns: 240px 1fr; */
-  /* grid-template-rows: 250px 1fr; */
   column-gap: 72px;
   row-gap: 5px;
-  /* padding-top: 179px; */
-  /* padding-left: 71px; */
-  /* margin-left: 24px; */
   margin: 183px 24px 0px 71px;
 }
 
@@ -383,15 +369,14 @@ text-transform:uppercase;
 align-content: center;
 }
 
-.yt{
-  background-image: url(../images/yt.svg) ;
+.yt {
+background-image: url(../images/yt.svg) ;
 }
 
 .vk {
   background-image: url(../images/vk.svg);
 }
 
-.pinterest{
+.pinterest {
   background-image: url(../images/pinterest.svg) ;
-
 }
