@@ -207,7 +207,7 @@ button {
 }
 
 .lots_heading {
-  margin-bottom: 30px;
+  margin-bottom: 27px;
   margin-left: 40px;
 text-transform:uppercase;
 }
@@ -228,9 +228,9 @@ text-transform:uppercase;
 .lots__card-list {
   position: relative;
   display: flex;
-  column-gap: 20px;
+  column-gap: 25px;
   width: 100%;
-  margin-bottom: 35px;
+  margin-bottom: 30px;
 }
 
 
@@ -263,7 +263,7 @@ text-transform:uppercase;
   position: relative;
   display: flex;
   align-items: flex-end;
-  padding: 0px 40px 40px;
+  padding: 0px 40px 48px 40px;
   color: white;
   font-weight: normal;
   font-size: 20px;
