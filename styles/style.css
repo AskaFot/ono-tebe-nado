@@ -335,10 +335,10 @@ text-transform:uppercase;
   justify-items: center;
   align-content: center;
   margin-right: 26px;
-  margin-bottom: 18px;
-  line-height: 21.13px;
-  letter-spacing: 0.01em;
+  margin-bottom: 19px;
   list-style: none;
+  line-height: 21.13px;
+  letter-spacing: 0.02em;
 }
 
 .footer__social-list-item {
