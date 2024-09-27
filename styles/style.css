@@ -203,7 +203,7 @@ text-transform:uppercase;
 }
 
 .lots {
-  margin: 179px 24px 0 24px;
+  margin: 177px 24px 0 24px;
 }
 
 .card {
@@ -220,7 +220,7 @@ text-transform:uppercase;
   display: flex;
   column-gap: 25px;
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 35px;
 }
 
 .card_type_film {
