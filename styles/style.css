@@ -14,7 +14,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 92px 24px 96px 24px;
+  margin: 92px 24px 100px 24px;
   }
 
   .header__menu {
@@ -276,7 +276,7 @@ button {
   display: grid;
   row-gap: 5px;
   column-gap: 72px;
-  margin: 184px 24px 0px 71px;
+  margin: 180px 24px 0px 71px;
 }
 
 .circle {
@@ -321,8 +321,10 @@ button {
 }
 
 .footer__menu {
+  font-family: "Raleway", sans-serif;
   display: flex;
-  margin-right: 13px;
+  margin-right: 25px;
+  letter-spacing: 0.02em;
   margin-bottom: 20px;
   list-style: none;
   line-height: 21.13px;
