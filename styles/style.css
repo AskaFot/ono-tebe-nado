@@ -14,10 +14,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 92px;
-  margin-right: 24px;
-  margin-bottom: 96px;
-  margin-left: 24px;
+  margin: 92px 24px 96px 24px;
   }
 
   .header__menu {
@@ -199,11 +196,11 @@ button {
 .lots_heading {
   margin-bottom: 27px;
   margin-left: 40px;
-text-transform:uppercase;
+  text-transform: uppercase;
 }
 
 .lots {
-  margin: 177px 24px 0 24px;
+  margin: 179px 24px 0 24px;
 }
 
 .card {
@@ -220,7 +217,7 @@ text-transform:uppercase;
   display: flex;
   column-gap: 25px;
   width: 100%;
-  margin-bottom: 35px;
+  margin-bottom: 30px;
 }
 
 .card_type_film {
@@ -279,7 +276,7 @@ text-transform:uppercase;
   display: grid;
   row-gap: 5px;
   column-gap: 72px;
-  margin: 179px 24px 0px 71px;
+  margin: 184px 24px 0px 71px;
 }
 
 .circle {
@@ -319,19 +316,21 @@ text-transform:uppercase;
   justify-items: center;
   justify-content: space-between;
   margin-top: 169px;
-  margin-bottom: 120px;
+  margin-bottom: 80px;
   margin-left: 50px;
 }
 
 .footer__menu {
-  display: grid;
-  justify-items: center;
-  align-content: center;
+  display: flex;
   margin-right: 26px;
   margin-bottom: 20px;
   list-style: none;
   line-height: 21.13px;
   letter-spacing: 0.0em;
+  justify-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .footer__social-list-item {
