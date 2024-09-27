@@ -317,16 +317,15 @@ button {
   justify-content: space-between;
   margin-top: 169px;
   margin-bottom: 80px;
-  margin-left: 50px;
+    margin-left: 50px;
 }
 
 .footer__menu {
   display: flex;
-  margin-right: 26px;
+  margin-right: 13px;
   margin-bottom: 20px;
   list-style: none;
   line-height: 21.13px;
-  letter-spacing: 0.0em;
   justify-items: center;
   flex-direction: column;
   align-items: center;
