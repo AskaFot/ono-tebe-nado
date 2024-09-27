@@ -276,7 +276,7 @@ button {
   display: grid;
   row-gap: 5px;
   column-gap: 72px;
-  margin: 180px 24px 0px 71px;
+  margin: 178px 24px 0px 71px;
 }
 
 .circle {
@@ -315,7 +315,7 @@ button {
   grid-auto-flow: column;
   justify-items: center;
   justify-content: space-between;
-  margin-top: 169px;
+  margin-top: 167px;
   margin-bottom: 80px;
     margin-left: 50px;
 }
